@@ -4,14 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d633ef6-b9f9-4d79-bed0-a720f2cf3c8b" name="Changes" comment="Getting started with Kotlin, Conditionals and Loops">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/Expression.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/Functions.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/Infix.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/TailRecursion.kt" afterDir="false" />
+    <list default="true" id="6d633ef6-b9f9-4d79-bed0-a720f2cf3c8b" name="Changes" comment="Functions, Top level functions, Infix, TailRecursion">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/classes/Person.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/raym/interfaces/Time.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/raym/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/raym/functions/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/raym/Expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/raym/functions/Expression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/raym/Functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/raym/functions/Functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/raym/Infix.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/raym/functions/Infix.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/raym/TailRecursion.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/raym/functions/TailRecursion.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +23,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663863145996</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Functions, Top level functions, Infix, TailRecursion">
+      <created>1663941658913</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663941658913</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +114,7 @@
     <MESSAGE value="Initial simple code" />
     <MESSAGE value="no-classes" />
     <MESSAGE value="Getting started with Kotlin, Conditionals and Loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Getting started with Kotlin, Conditionals and Loops" />
+    <MESSAGE value="Functions, Top level functions, Infix, TailRecursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="Functions, Top level functions, Infix, TailRecursion" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-package raym;
+package raym.functions;
 import raym.*;
 
 public class App {
